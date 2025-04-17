@@ -10,7 +10,7 @@ body {
 
 .caja1 {
     margin-top: 25px;
-    width: 43.5vh;
+    width: 96.7%;
     height: 11vh;
     background:   rgb(62, 127, 153);
     border-radius: 10px;
@@ -34,8 +34,8 @@ body {
 }
 
 .Click1 {
-    top: 10px;
-    left: 190px;
+    top: 1.1vh;
+    left: 21vh;
     position: absolute;
     width: 21.5vh;
     height: 80%;
