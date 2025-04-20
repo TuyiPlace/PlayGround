@@ -42,3 +42,34 @@ body {
     border-radius: 5px;
     background-color: aqua  ;
 }
+
+.caja2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: rgb(55, 150, 0);
+    border-radius: 20px;
+    width: 96.7%;
+    height: 4vh;
+    left: 0.7vh;
+    top: -1.5vh;
+}
+
+.volumen {
+    width: 35vh;
+}
+
+.boton1 {
+    background-color: rgb(229, 255, 0);
+    width: 3vh;
+    height: 3vh;
+    border-radius: 100%;
+}
+
+.boton2 {
+    background-color: rgb(255, 0, 106);
+    width: 3vh;
+    height: 3vh;
+    border-radius: 100%;
+}
